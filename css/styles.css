@@ -120,7 +120,7 @@
     .code-skill-desc-left {
         clear: left;
     }
-
+    
     .code-skill-desc-right {
         clear: right;
     }
@@ -184,6 +184,10 @@
         width: 50%;
         margin: 100px auto 200px auto;
         text-align: left;
+    }
+
+    .skill-link {
+        text-decoration: none;
     }
 
     .sql-text {
